@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "452732159481",
+    "firebase_url": "https://chickencoop-1555153589382.firebaseio.com",
+    "project_id": "chickencoop-1555153589382",
+    "storage_bucket": "chickencoop-1555153589382.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452732159481:android:23c412e1dad7c725",
+        "android_client_info": {
+          "package_name": "com.example.chickencoop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452732159481-adbeo0t9n5afrhchdobee3t2te3eap0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6MihC5SHh-6kNoll4182Vc7vQPyjT7lk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "452732159481-adbeo0t9n5afrhchdobee3t2te3eap0s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
